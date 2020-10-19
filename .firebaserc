@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "ccaf-afea"
+  },
+  "targets": {
+    "ccaf-afea": {
+      "hosting": {
+        "client": [
+          "client-ccaf-afea"
+        ]
+      }
+    }
+  }
+}
