@@ -1,6 +1,3 @@
-# afea-client
-
-> Alternative Finance Ecosystem Atlas project by the Cambridge Centre for Alternative Finance, University of Cambridge
 
 ## Build Setup
 
