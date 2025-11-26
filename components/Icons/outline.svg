@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>check_box/24/outline</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="check_box/24/Semiselect">
+            <g id="check_box/24/outline">
+                <path d="M19,3.25 L19.1429086,3.25583376 C20.0387658,3.32924176 20.75,4.08616763 20.75,5 L20.75,5 L20.75,19 L20.7441662,19.1429086 C20.6707582,20.0387658 19.9138324,20.75 19,20.75 L19,20.75 L5,20.75 L4.85709139,20.7441662 C3.96123425,20.6707582 3.25,19.9138324 3.25,19 L3.25,19 L3.25,5 L3.25583376,4.85709139 C3.32924176,3.96123425 4.08616763,3.25 5,3.25 L5,3.25 L19,3.25 Z M19.25,4.75 L4.75,4.75 L4.75,19.25 L19.25,19.25 L19.25,4.75 Z" id="Combined-Shape" fill="#0E1337" fill-rule="nonzero"></path>
+                <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+            </g>
+            <rect id="Rectangle" fill="#0E1436" x="9" y="9" width="6" height="6"></rect>
+        </g>
+    </g>
+</svg>
